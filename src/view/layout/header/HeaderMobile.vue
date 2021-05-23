@@ -5,9 +5,7 @@
     v-bind:class="headerClasses"
   >
     <!--begin::Logo-->
-    <a href="/">
-      <img alt="Logo" :src="headerLogo" />
-    </a>
+    
     <!--end::Logo-->
     <!--begin::Toolbar-->
     <div class="d-flex align-items-center">
